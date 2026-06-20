@@ -17,11 +17,13 @@ This project presents a real-time heart rate monitoring system built using a pul
   Jumper Wires\
   Breadboard\
   USB Cable
+  
 * Software -\
   Arduino IDE\
   ESP32 Board Package\
   Serial plotter
 ---
+
 * HARDWARE CONNECTIONS -
   
 * Pulse sensor - ESP32 wiring connections-\
